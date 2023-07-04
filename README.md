@@ -5,6 +5,10 @@
 - 📫 How to reach me: https://t.ly/zx7g
 - 💬 Ask me about Python / Deep Learning
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **xmarva/xmarva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
