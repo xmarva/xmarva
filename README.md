@@ -7,6 +7,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Transfer Learning Step-by-Step: Enhance Your Machine Learning Models](https://pythonwithliz.com/transfer-learning-step-by-step-enhance-your-machine-learning-models/)
+- [MLOps: Best Practices for Streamlining Machine Learning Projects](https://pythonwithliz.com/mlops-best-practices-for-streamlining-machine-learning-projects/)
+- [An Understandable Guide to Backpropagation: From Basics to Mastery](https://pythonwithliz.com/an-understandable-guide-to-backpropagation-from-basics-to-mastery/)
+- [How to Optimize Your Python Code for Machine Learning Performance 🚀🐍](https://pythonwithliz.com/how-to-optimize-your-python-code-for-machine-learning-performance-%f0%9f%9a%80%f0%9f%90%8d/)
+- [Python and NumPy: An Overview of the Numerical Computing Library🧮](https://pythonwithliz.com/python-and-numpy-an-overview-of-the-numerical-computing-library%f0%9f%a7%ae/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
