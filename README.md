@@ -1,4 +1,4 @@
-### Hi there, I am Liza 🥷
+### Hi there, I am Marva 🥷
 
 - 🔭 I’m currently working on Virtual Try-On Project
 - 🌱 I’m currently learning System Design / MLOps
