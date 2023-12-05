@@ -1,9 +1,11 @@
 ### Hi there, I am Marva 🥷
 
-- 🔭 I’m currently working on Virtual Try-On Project
-- 🌱 I’m currently learning System Design / MLOps
+AI developer and researcher focusing on medicine/healthcare. 
+Natural Language Processing / Computer Vision / MLOps
+
+- 🌱 I’m currently learning System Design
 - 📫 How to reach me: https://t.ly/zx7g
-- 💬 Ask me about Python / Deep Learning
+- 💬 Ask me anything about Deep Learning
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,7 +34,6 @@ Here are some ideas to get you started:!
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
