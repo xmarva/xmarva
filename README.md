@@ -4,7 +4,7 @@ AI developer and researcher focusing on medicine/healthcare and efficient MLOps.
 I also like complicated, non-trivial Natural Language Processing / Computer Vision tasks.
 
 - 🌱 I’m currently learning System Design
-- 📫 How to reach me: https://t.ly/zx7g
+- 📫 How to reach me: marva.stroganova@gmail.com
 - 💬 Ask me anything about Deep Learning
 
 ### Blog posts
