@@ -1,9 +1,7 @@
 ### Hi there, I am Marva 🥷
 
-AI developer and researcher focusing on medicine/healthcare and efficient MLOps.
-I also like complicated, non-trivial Natural Language Processing / Computer Vision tasks.
+AI Developer and Researcher.
 
-- 🌱 I’m currently learning System Design
 - 📫 How to reach me: marva.stroganova@gmail.com
 - 💬 Ask me anything about Deep Learning
 
