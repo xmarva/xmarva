@@ -6,7 +6,7 @@ I run a blog about AI, careers, and the lifestyle in this field. Feel free to ch
 
 - 📫 How to reach me: marva.stroganova@gmail.com
 
-### Latest blog posts - [MLSamurai](https://mlsamurai.com/)
+### [MLSamurai](https://mlsamurai.com/): Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Get a Job in AI: Career Starting Guide in 2024](https://mlsamurai.com/how-to-get-a-job-in-ai-career-starting-guide-in-2024/)
 - [Ultimate Guide to Personal Productivity: 35 Best Time Management Techniques](https://mlsamurai.com/ultimate-guide-to-personal-productivity-35-best-time-management-techniques/)
