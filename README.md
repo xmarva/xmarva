@@ -1,9 +1,10 @@
-### Hi there, I am Marva 🥷
+### Hi there🥷
 
-AI Developer and Researcher.
+I'm an AI Engineer with a keen interest in both NLP and CV tasks. I also love it when everything works smoothly and quickly, with all processes well-organized.
+
+I run a blog about AI, careers, and the lifestyle in this field. Feel free to check it out—you might really like it.
 
 - 📫 How to reach me: marva.stroganova@gmail.com
-- 💬 Ask me anything about Deep Learning
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
