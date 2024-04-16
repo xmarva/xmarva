@@ -8,11 +8,11 @@ I run a blog about AI, careers, and the lifestyle in this field. Feel free to ch
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Transfer Learning Step-by-Step: Enhance Your Machine Learning Models](https://pythonwithliz.com/transfer-learning-step-by-step-enhance-your-machine-learning-models/)
-- [MLOps: Best Practices for Streamlining Machine Learning Projects](https://pythonwithliz.com/mlops-best-practices-for-streamlining-machine-learning-projects/)
-- [An Understandable Guide to Backpropagation: From Basics to Mastery](https://pythonwithliz.com/an-understandable-guide-to-backpropagation-from-basics-to-mastery/)
-- [How to Optimize Your Python Code for Machine Learning Performance 🚀🐍](https://pythonwithliz.com/how-to-optimize-your-python-code-for-machine-learning-performance-%f0%9f%9a%80%f0%9f%90%8d/)
-- [Python and NumPy: An Overview of the Numerical Computing Library🧮](https://pythonwithliz.com/python-and-numpy-an-overview-of-the-numerical-computing-library%f0%9f%a7%ae/)
+- [How to Get a Job in AI: Career Starting Guide in 2024](https://mlsamurai.com/how-to-get-a-job-in-ai-career-starting-guide-in-2024/)
+- [Ultimate Guide to Personal Productivity: 35 Best Time Management Techniques](https://mlsamurai.com/ultimate-guide-to-personal-productivity-35-best-time-management-techniques/)
+- [How To Set Your Top Priorities In Life?](https://mlsamurai.com/how-to-set-your-top-priorities-in-life/)
+- [Activation Functions in Machine Learning](https://mlsamurai.com/activation-functions-in-machine-learning/)
+- [Enhance Your Machine Learning Models With Transfer Learning](https://mlsamurai.com/transfer-learning-step-by-step-enhance-your-machine-learning-models/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
