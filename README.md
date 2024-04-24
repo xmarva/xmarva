@@ -8,11 +8,11 @@ I run a blog about AI, careers, and the lifestyle in this field. Feel free to ch
 
 ### [MLSamurai](https://mlsamurai.com/): Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LLMs&lpar;Large Language Models&rpar; for Those Who Missed Out](https://mlsamurai.com/llmslarge-language-models-for-those-who-missed-out/)
 - [Startup Survival: Key Questions to Ask During Your Interview](https://mlsamurai.com/startup-survival-key-questions-to-ask-during-your-interview/)
 - [How to Get a Job in AI: Career Starting Guide in 2024](https://mlsamurai.com/how-to-get-a-job-in-ai-career-starting-guide-in-2024/)
 - [Ultimate Guide to Personal Productivity: 35 Best Time Management Techniques](https://mlsamurai.com/ultimate-guide-to-personal-productivity-35-best-time-management-techniques/)
 - [How To Set Your Top Priorities In Life?](https://mlsamurai.com/how-to-set-your-top-priorities-in-life/)
-- [Activation Functions in Machine Learning](https://mlsamurai.com/activation-functions-in-machine-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
