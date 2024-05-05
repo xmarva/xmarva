@@ -8,11 +8,11 @@ I run a blog about AI, careers, and the lifestyle in this field. Feel free to ch
 
 ### [MLSamurai](https://mlsamurai.com/): Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Large Language Models](https://mlsamurai.com/large-language-models/)
 - [Impostor Syndrome: Recognizing and Overcoming It](https://mlsamurai.com/impostor-syndrome-recognizing-and-overcoming-it/)
 - [All About Exploratory Data Analysis &lpar;EDA&rpar;](https://mlsamurai.com/all-about-exploratory-data-analysis-eda/)
 - [LLMs&lpar;Large Language Models&rpar; for Those Who Missed Out](https://mlsamurai.com/llmslarge-language-models-for-those-who-missed-out/)
 - [Startup Survival: Key Questions to Ask During Your Interview](https://mlsamurai.com/startup-survival-key-questions-to-ask-during-your-interview/)
-- [How to Get a Job in AI: Career Starting Guide in 2024](https://mlsamurai.com/how-to-get-a-job-in-ai-career-starting-guide-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
