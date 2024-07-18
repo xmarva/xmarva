@@ -2,13 +2,8 @@
 
 I know about data and AI.
 
-### [MLSamurai](https://mlsamurai.com/): Latest Blog Posts
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Science](https://mlsamurai.com/data-science/)
-- [Large Language Models](https://mlsamurai.com/large-language-models/)
-- [Impostor Syndrome: Recognizing and Overcoming It](https://mlsamurai.com/impostor-syndrome-recognizing-and-overcoming-it/)
-- [All About Exploratory Data Analysis &lpar;EDA&rpar;](https://mlsamurai.com/all-about-exploratory-data-analysis-eda/)
-- [LLMs&lpar;Large Language Models&rpar; for Those Who Missed Out](https://mlsamurai.com/llmslarge-language-models-for-those-who-missed-out/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
