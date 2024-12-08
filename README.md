@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Eva
 
 I'm an AI Engineer and Researcher with a current focus on **Computer Vision** and **Generative AI**. \
-Learn more about my projects and my approach to AI on my [personal website](https://xmarva.github.io). 
+Learn more about my approach to AI and work experience on my [personal website](https://xmarva.github.io). 
 
 ## 🧠 My Work Principles
 
@@ -24,8 +24,8 @@ Learn more about my projects and my approach to AI on my [personal website](http
 
 ## 🛠️ Technologies I Work With  
 
-- **Languages:**  `Python`, `C++`, `Wolfram`  
+- `Python`, `C++`, `Wolfram`  
 
-- **Frameworks and Libraries:**  `PyTorch`, `PyTorch Lightning`, `Hugging Face` , `NumPy`, `Pandas`, `Matplotlib`  
+- `PyTorch`, `PyTorch Lightning`, `Hugging Face` , `NumPy`, `Pandas`, `Matplotlib`  
 
-- **DevOps and Cloud:**  `Flask`, `Docker`, `AWS SageMaker`
+- `Flask`, `Docker`, `AWS SageMaker`
