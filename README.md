@@ -20,9 +20,11 @@ Learn more about my approach to AI and work experience on my [personal website](
 - **Stay humble**  
   A little less ego goes a long way in achieving better results.  
 
+
 ## ✍️ Latest blogposts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 ## 🛠️ Technologies I Work With  
 
