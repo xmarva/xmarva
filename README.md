@@ -23,6 +23,7 @@ Learn more about my approach to AI and work experience on my [personal website](
 
 ## ✍️ Latest Blogposts
 <!-- BLOG-POST-LIST:START -->
+- [How to Write Good Python Code](https://xmarva.github.io/blog/2023/python-code/)
 <!-- BLOG-POST-LIST:END -->
 
 
