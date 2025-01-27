@@ -23,7 +23,7 @@ Learn more about my approach to AI and work experience on my [personal website](
 
 ## ✍️ Latest Blogposts
 <!-- BLOG-POST-LIST:START -->
-- [The Algebraic Foundations of Low-Rank Adaptation](https://xmarva.github.io/blog/2024/lora-algorithm-for-llms/)
+- [Algebraic Foundations of Low-Rank Adaptation](https://xmarva.github.io/blog/2024/lora-algorithm-for-llms/)
 - [LLMs for Those Who Missed Out](https://xmarva.github.io/blog/2024/llms-for-those-who-missed-out/)
 - [How to Write Good Python Code](https://xmarva.github.io/blog/2023/python-code/)
 <!-- BLOG-POST-LIST:END -->
