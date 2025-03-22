@@ -37,3 +37,8 @@ Learn more about my approach to AI and work experience on my [personal website](
 - `PyTorch`, `PyTorch Lightning`, `Hugging Face` , `NumPy`, `Pandas`, `Matplotlib`  
 
 - `Flask`, `Docker`, `AWS SageMaker`
+
+## 🔍 Current Projects
+
+- [Transformer Architectures Course]([https://github.com/yourusername/transformer-architectures-course](https://github.com/xmarva/transformer-architectures)). Deep exploration of transformer-based architectures such as BERT, GPT, T5, and others.
+- [VisualTransformer: Adaptation and Fine-tuning with JAX/Flax]([https://github.com/yourusername/transformer-architectures-course](https://github.com/xmarva/jax-lung-cancer-classifier)) I'm working on adapting the Vision Transformer (ViT) model for computer vision tasks and optimizing it using JAX and Flax.
