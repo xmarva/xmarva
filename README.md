@@ -23,6 +23,7 @@ Learn more about my approach to AI and work experience on my [personal website](
 
 ## ✍️ Latest Blogposts
 <!-- BLOG-POST-LIST:START -->
+- [Attention Mechanism from RNN to FlashAttention](https://xmarva.github.io/blog/2025/attention/)
 - [Can AI Achieve True Creativity?](https://xmarva.github.io/blog/2025/creative-ai/)
 - [Algebraic Foundations of Low-Rank Adaptation](https://xmarva.github.io/blog/2024/lora-algorithm-for-llms/)
 - [LLMs for Those Who Missed Out](https://xmarva.github.io/blog/2024/llms-for-those-who-missed-out/)
