@@ -23,11 +23,11 @@ Learn more about my approach to AI and work experience on my [personal website](
 
 ## ✍️ Latest Blogposts
 <!-- BLOG-POST-LIST:START -->
+- [Bottleneck, Parallel, IA3, LoRA Adapters](https://xmarva.github.io/blog/2025/adapters/)
 - [Physical Symbol Systems and the Language of Thought](https://xmarva.github.io/blog/2025/minds-as-computers/)
 - [Building a Transformer &lpar;Cross-Attention and MHA Explained&rpar;](https://xmarva.github.io/blog/2025/building-a-transformer/)
 - [Understanding Byte-Pair Encoding Algorithm](https://xmarva.github.io/blog/2025/tokenization/)
 - [Can AI Achieve True Creativity?](https://xmarva.github.io/blog/2025/creative-ai/)
-- [Algebraic Foundations of Low-Rank Adaptation](https://xmarva.github.io/blog/2024/lora-algorithm-for-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 
