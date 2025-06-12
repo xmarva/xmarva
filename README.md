@@ -33,13 +33,15 @@ Learn more about my approach to AI and work experience on my [personal website](
 
 ## 🛠️ Technologies I Work With  
 
-- `Python`, `C++`, `Wolfram`, `LaTex`
+- `Python`, `C++`, `Wolfram`, `LaTex`, `Git`
 
-- `PyTorch`, `Lightning`, `Huggitng Face libs`, `OpenCV`, `NumPy`, `Pandas`, `Matplotlib`
+- `NumPy`, `Pandas`, `Matplotlib`, `Plotly`
+
+- `PyTorch`, `Lightning`, `Huggitng Face libs`, `OpenCV`
   
-- `MlFlow`, `DVC`, `Weights & Biases`
+- `MlFlow`, `DVC`, `Weights & Biases`, `Hydra`, `Optuna` 
 
-- `Flask`, `FastAPI`, `Docker`, `AWS SageMaker`
+- `Flask`, `FastAPI`, `Docker`, `AWS SageMaker`, `Gradio`, `Streamlit`, `GitHub Actions`
 
 ## 🔍 Current Projects
 
