@@ -39,9 +39,9 @@ Learn more about my approach to AI and work experience on my [personal website](
 
 - `PyTorch`, `Lightning`, `Huggitng Face libs`, `OpenCV`
   
-- `MlFlow`, `DVC`, `Weights & Biases`, `Hydra`, `Optuna` 
+- `MlFlow`, `DVC`, `Weights & Biases`, `Hydra`, `Optuna`, `Prometheus`, `Grafana` 
 
-- `Flask`, `FastAPI`, `Docker`, `AWS SageMaker`, `Gradio`, `Streamlit`, `GitHub Actions`
+- `Flask`, `FastAPI`, `Docker`, `CI/CD`, `AWS SageMaker`, `Gradio`, `Streamlit`, `vLLM`
 
 ## 🔍 Current Projects
 
