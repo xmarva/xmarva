@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Eva
 
-I'm an ML Engineer with 6 years of experience in R&D: Computer Vision and NLP. 
-Currently focusing on Transformer-based architectures, exploring model optimization and building scalable ML systems.
+I'm an ML Engineer with 6 years of experience in R&D: Computer Vision and NLP. \
+Currently focusing on Transformer-based architectures, exploring model optimization and building scalable ML systems. \
 Learn more about my approach to AI and work experience on my [website](https://xmarva.github.io). 
 
 ## 🧠 My Work Principles
