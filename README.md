@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Eva
 
-I'm an AI Engineer and Researcher with a current focus on **Computer Vision** and **Generative AI**. \
-Learn more about my approach to AI and work experience on my [personal website](https://xmarva.github.io). 
+I'm an ML Engineer with 6 years of experience in R&D: Computer Vision and NLP. 
+Currently focusing on Transformer-based architectures, exploring model optimization and building scalable ML systems.
+Learn more about my approach to AI and work experience on my [website](https://xmarva.github.io). 
 
 ## 🧠 My Work Principles
 
