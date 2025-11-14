@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Eva
 
 I'm an ML Engineer with 6 years of experience in R&D: Computer Vision and NLP. \
-Currently focusing on Transformer-based architectures, exploring model optimization and building scalable ML systems. \
-Learn more about my approach to AI and work experience on my [website](https://xmarva.github.io). 
+Currently focusing on model optimization and building scalable ML / MLOps pipelines. \
+Learn more about my approach to AI and work experience on my [cute little website](https://xmarva.github.io). 
 
 ## 🧠 My Work Principles
 
@@ -48,5 +48,3 @@ Learn more about my approach to AI and work experience on my [website](https://x
 
 - [Transformer Architectures Course](https://github.com/xmarva/transformer-architectures). \
   Deep exploration of transformer-based architectures such as BERT, GPT, T5, and others.
-- [VisualTransformer: Adaptation and Fine-tuning with JAX/Flax](https://github.com/xmarva/jax-vit) \
-  I'm working on adapting the Vision Transformer (ViT) model for computer vision tasks and optimizing it using JAX and Flax.
