@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Eva
 
-I'm an ML/MlOps Engineer with 6+ years of experience.
-Currently working on AI systems for cybersecurity and quantitative trading.
+I'm an ML / MLOps Engineer with 6+ years of experience. \
+Currently working on AI systems for cybersecurity and quantitative trading. \
 More about my work on my [cute little website](https://xmarva.github.io). 
 
 ## ✍️ Latest Blogposts
