@@ -1,26 +1,8 @@
 # 👋 Hi, I’m Eva
 
-I'm an ML Engineer with 6 years of experience in R&D: Computer Vision and NLP. \
-Currently focusing on model optimization and building scalable ML / MLOps pipelines. \
-Learn more about my approach to AI and work experience on my [cute little website](https://xmarva.github.io). 
-
-## 🧠 My Work Principles
-
-- **Simplify the complex**  
-  Aim to explain challenging concepts in plain language, avoiding the dense jargon often found in academic papers.  
-
-- **Avoid unnecessary work**  
-  Take the time to assess whether it's truly worth it and how to approach it in the most efficient way possible.  
-
-- **Organize for success**  
-  Time spent organizing and maintaining clean code and workflows pays off not just in the long term but immediately.  
-
-- **Respect technological boundaries**  
-  Strive to recognize the limits of technology and avoid playing the role of omnipotent creator.  
-
-- **Stay humble**  
-  A little less ego goes a long way in achieving better results.  
-
+I'm an ML/MlOps Engineer with 6+ years of experience.
+Currently working on AI systems for cybersecurity and quantitative trading.
+More about my work on my [cute little website](https://xmarva.github.io). 
 
 ## ✍️ Latest Blogposts
 <!-- BLOG-POST-LIST:START -->
@@ -43,8 +25,3 @@ Learn more about my approach to AI and work experience on my [cute little websit
 - `MlFlow`, `DVC`, `Weights & Biases`, `Hydra`, `Optuna`, `Prometheus`, `Grafana` 
 
 - `Flask`, `FastAPI`, `Docker`, `CI/CD`, `AWS SageMaker`, `Gradio`, `Streamlit`, `vLLM`
-
-## 🔍 Current Projects
-
-- [Transformer Architectures Course](https://github.com/xmarva/transformer-architectures). \
-  Deep exploration of transformer-based architectures such as BERT, GPT, T5, and others.
