@@ -6,11 +6,11 @@ More about my work on my [cute little website](https://xmarva.github.io).
 
 ## ✍️ Latest Blogposts
 <!-- BLOG-POST-LIST:START -->
+- [From parrot to translator: training and decoding](https://xmarva.github.io/blog/2026/transformers-from-scratch-03-training/)
+- [The Transformer, built by hand](https://xmarva.github.io/blog/2026/transformers-from-scratch-02-transformer/)
+- [How language models read: tokenization and BPE from scratch](https://xmarva.github.io/blog/2026/transformers-from-scratch-01-tokenization/)
 - [Somatic Marker Hypothesis by Antonio Damasio](https://xmarva.github.io/blog/2025/antonio-damasio/)
 - [LLM Inference Optimization](https://xmarva.github.io/blog/2025/inference-optimization/)
-- [PEFT Method Overview [implementing Adapters in PyTorch]](https://xmarva.github.io/blog/2025/adapters/)
-- [Physical Symbol Systems and the Language of Thought](https://xmarva.github.io/blog/2025/minds-as-computers/)
-- [Building a Transformer &lpar;Cross-Attention and MHA Explained&rpar;](https://xmarva.github.io/blog/2025/building-a-transformer/)
 <!-- BLOG-POST-LIST:END -->
 
 
