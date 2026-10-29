@@ -6,11 +6,11 @@ More about my work on my [cute little website](https://xmarva.github.io).
 
 ## ✍️ Latest Blogposts
 <!-- BLOG-POST-LIST:START -->
+- [It works on my laptop: a reproducible Docker image of a model](https://xmarva.github.io/blog/2026/transformers-from-scratch-09-docker/)
 - [Serving a Transformer with FastAPI and Gradio: latency under load](https://xmarva.github.io/blog/2026/transformers-from-scratch-08-serving/)
 - [Your notebook is not a product: a Python package with tests and CI](https://xmarva.github.io/blog/2026/transformers-from-scratch-07-package/)
 - [Hyperparameter tuning on a free GPU with W&amp;amp;B Sweeps](https://xmarva.github.io/blog/2026/transformers-from-scratch-06-sweeps/)
 - [What Llama changed in the Transformer: RoPE, RMSNorm, SwiGLU](https://xmarva.github.io/blog/2026/transformers-from-scratch-05-llama/)
-- [Evaluating machine translation with chrF and COMET](https://xmarva.github.io/blog/2026/transformers-from-scratch-04-evaluation/)
 <!-- BLOG-POST-LIST:END -->
 
 
