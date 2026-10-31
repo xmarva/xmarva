@@ -6,11 +6,11 @@ More about my work on my [cute little website](https://xmarva.github.io).
 
 ## ✍️ Latest Blogposts
 <!-- BLOG-POST-LIST:START -->
+- [Hybrid attention: why new LLMs keep full attention in only a few layers](https://xmarva.github.io/blog/2026/hybrid-attention/)
 - [It works on my laptop: a reproducible Docker image of a model](https://xmarva.github.io/blog/2026/transformers-from-scratch-09-docker/)
 - [Serving a Transformer with FastAPI and Gradio: latency under load](https://xmarva.github.io/blog/2026/transformers-from-scratch-08-serving/)
 - [Your notebook is not a product: a Python package with tests and CI](https://xmarva.github.io/blog/2026/transformers-from-scratch-07-package/)
 - [Hyperparameter tuning on a free GPU with W&amp;amp;B Sweeps](https://xmarva.github.io/blog/2026/transformers-from-scratch-06-sweeps/)
-- [What Llama changed in the Transformer: RoPE, RMSNorm, SwiGLU](https://xmarva.github.io/blog/2026/transformers-from-scratch-05-llama/)
 <!-- BLOG-POST-LIST:END -->
 
 
