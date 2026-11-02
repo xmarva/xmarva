@@ -6,11 +6,11 @@ More about my work on my [cute little website](https://xmarva.github.io).
 
 ## ✍️ Latest Blogposts
 <!-- BLOG-POST-LIST:START -->
+- [From RoBERTa to ModernBERT: what seven years did to BERT](https://xmarva.github.io/blog/2026/transformer-architectures-02-modernbert/)
+- [BERT from scratch: masked language modelling and fine-tuning](https://xmarva.github.io/blog/2026/transformer-architectures-01-bert/)
+- [How accurate is Polymarket? Calibration, longshot bias and a volume trap](https://xmarva.github.io/blog/2026/polymarket-accuracy/)
 - [AI crypto trading bots: what machine learning and LLMs can and can’t do](https://xmarva.github.io/blog/2026/ai-crypto-trading/)
 - [Mixture of experts: why the largest LLMs use a few percent of their weights per token](https://xmarva.github.io/blog/2026/mixture-of-experts/)
-- [Hybrid attention: why new LLMs keep full attention in only a few layers](https://xmarva.github.io/blog/2026/hybrid-attention/)
-- [It works on my laptop: a reproducible Docker image of a model](https://xmarva.github.io/blog/2026/transformers-from-scratch-09-docker/)
-- [Is it rational to be good? Game theory and the ethics of cooperation](https://xmarva.github.io/blog/2026/game-theory-ethics/)
 <!-- BLOG-POST-LIST:END -->
 
 
