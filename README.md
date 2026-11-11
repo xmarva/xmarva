@@ -7,10 +7,10 @@ More about my work on my [cute little website](https://xmarva.github.io).
 ## ✍️ Latest Blogposts
 <!-- BLOG-POST-LIST:START -->
 - [The Vision Transformer reads images as sequences of patches](https://xmarva.github.io/blog/2026/transformer-architectures-11-vit/)
+- [How accurate is Polymarket? Calibration, longshot bias and a volume trap](https://xmarva.github.io/blog/2026/polymarket-accuracy/)
+- [AI crypto trading bots: what machine learning and LLMs can and can’t do](https://xmarva.github.io/blog/2026/ai-crypto-trading/)
+- [Beyond attention with Mamba, state space models and hybrids](https://xmarva.github.io/blog/2026/transformer-architectures-10-mamba/)
 - [Long context with RoPE scaling, YaRN and FlashAttention](https://xmarva.github.io/blog/2026/transformer-architectures-09-long/)
-- [The KV cache budget and DeepSeek’s latent attention](https://xmarva.github.io/blog/2026/transformer-architectures-08-kv/)
-- [Mixture-of-experts LLMs from scratch with OLMoE](https://xmarva.github.io/blog/2026/transformer-architectures-07-moe/)
-- [Modern LLM architecture and Qwen3 from scratch](https://xmarva.github.io/blog/2026/transformer-architectures-06-modern/)
 <!-- BLOG-POST-LIST:END -->
 
 
