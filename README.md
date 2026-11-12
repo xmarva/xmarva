@@ -6,11 +6,11 @@ More about my work on my [cute little website](https://xmarva.github.io).
 
 ## ✍️ Latest Blogposts
 <!-- BLOG-POST-LIST:START -->
-- [The Vision Transformer reads images as sequences of patches](https://xmarva.github.io/blog/2026/transformer-architectures-11-vit/)
-- [How accurate is Polymarket? Calibration, longshot bias and a volume trap](https://xmarva.github.io/blog/2026/polymarket-accuracy/)
-- [AI crypto trading bots: what machine learning and LLMs can and can’t do](https://xmarva.github.io/blog/2026/ai-crypto-trading/)
-- [Beyond attention with Mamba, state space models and hybrids](https://xmarva.github.io/blog/2026/transformer-architectures-10-mamba/)
-- [Long context with RoPE scaling, YaRN and FlashAttention](https://xmarva.github.io/blog/2026/transformer-architectures-09-long/)
+- [The Vision Transformer reads images as sequences of patches](https://blog.korolevalab.com/blog/2026/transformer-architectures-11-vit/)
+- [How accurate is Polymarket? Calibration, longshot bias and a volume trap](https://blog.korolevalab.com/blog/2026/polymarket-accuracy/)
+- [AI crypto trading bots: what machine learning and LLMs can and can’t do](https://blog.korolevalab.com/blog/2026/ai-crypto-trading/)
+- [Beyond attention with Mamba, state space models and hybrids](https://blog.korolevalab.com/blog/2026/transformer-architectures-10-mamba/)
+- [Long context with RoPE scaling, YaRN and FlashAttention](https://blog.korolevalab.com/blog/2026/transformer-architectures-09-long/)
 <!-- BLOG-POST-LIST:END -->
 
 
