@@ -6,11 +6,11 @@ More about my work on my [cute little website](https://xmarva.github.io).
 
 ## ✍️ Latest Blogposts
 <!-- BLOG-POST-LIST:START -->
+- [How vision-language models read images, from LLaVA to Qwen2-VL](https://blog.korolevalab.com/blog/2026/transformer-architectures-13-vlm/)
 - [CLIP and SigLIP put images and text in one space](https://blog.korolevalab.com/blog/2026/transformer-architectures-12-clip/)
 - [The Vision Transformer reads images as sequences of patches](https://blog.korolevalab.com/blog/2026/transformer-architectures-11-vit/)
 - [How accurate is Polymarket? Calibration, longshot bias and a volume trap](https://blog.korolevalab.com/blog/2026/polymarket-accuracy/)
 - [AI crypto trading bots: what machine learning and LLMs can and can’t do](https://blog.korolevalab.com/blog/2026/ai-crypto-trading/)
-- [Beyond attention with Mamba, state space models and hybrids](https://blog.korolevalab.com/blog/2026/transformer-architectures-10-mamba/)
 <!-- BLOG-POST-LIST:END -->
 
 
